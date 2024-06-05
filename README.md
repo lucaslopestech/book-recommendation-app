@@ -1,1 +1,1 @@
-# recommendation-app
+# book-recommendation-app
